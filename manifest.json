@@ -1,0 +1,11 @@
+{
+    "name":"SuperHuman",
+    "version":"1.0.0",
+    "description":"Extenstion to make you Superhuman",
+    "manifest_version":3,
+    "author":"scott88lee",
+    "action": {
+        "default_popup":"index.html",
+        "default_title":"SuperHuman"
+    }
+}
